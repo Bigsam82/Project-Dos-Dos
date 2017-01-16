@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Dos Dos\Project Dos Dos\bin\Debug\Project Dos Dos.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Dos Dos\Project Dos Dos\bin\Debug\Project Dos Dos.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Dos Dos\Project Dos Dos\bin\Debug\Project Dos Dos.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Dos Dos\Project Dos Dos\obj\Debug\Project Dos Dos.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Dos Dos\Project Dos Dos\obj\Debug\Project Dos Dos.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project Dos Dos\Project Dos Dos\obj\Debug\Project Dos Dos.pdb
